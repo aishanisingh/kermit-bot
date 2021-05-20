@@ -13,4 +13,5 @@ To see some examples of how KermitBot works, go to https://github.com/aishanisin
 
 ## Notes
 Right now, KermitBot is not fully functional and only works when my laptop is online. That will be fixed soon :')
+
 Have fun!
