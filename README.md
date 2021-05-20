@@ -9,7 +9,7 @@ Once you invite KermitBot into your server, you can type in `-help` to see all o
 * `-news`
 * `-inspire`
 
-To see some examples of how KermitBot works, go to 
+To see some examples of how KermitBot works, go to https://github.com/aishanisingh/kermit-bot/tree/main/Examples
 
 ## Notes
 Right now, KermitBot is not fully functional and only works when my laptop is online. That will be fixed soon :')
