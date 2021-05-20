@@ -7,7 +7,7 @@ Hey! Thank you for looking at my project. This is KermitBot, a bot I made for fu
 Once you invite KermitBot into your server, you can type in `-help` to see all of his commands. Some of his commands are:
 * `-meme`
 * `-news`
-* `-inspire.`
+* `-inspire`
 
 To see some examples of how KermitBot works, go to 
 
